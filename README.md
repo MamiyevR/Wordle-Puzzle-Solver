@@ -1,4 +1,4 @@
-# Votee AI Coding Task
+# Wordle Puzzle Solver
 
 This is a program for solving random wordle puzzle. We use 2 API to achieve this task.
 
